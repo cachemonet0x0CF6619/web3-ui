@@ -1,5 +1,11 @@
 # @web3-ui/components
 
+## 0.3.0
+
+### Minor Changes
+
+- [#105](https://github.com/Developer-DAO/web3-ui/pull/105) [`6064be0`](https://github.com/Developer-DAO/web3-ui/commit/6064be033150ccd4df52c913a3d55ce2c63c262b) Thanks [@maximebonhomme](https://github.com/maximebonhomme)! - Address component now accept copiable prop to allow users to copy the address value into their clipboard
+
 ## 0.2.2
 
 ### Patch Changes
